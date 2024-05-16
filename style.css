@@ -3,7 +3,7 @@ body {
   height: 100vh;
   margin: 0;
   overflow-y: auto;
-  padding-top: 100px;
+  padding-top: 200px;
   padding-bottom: 200px;
   overscroll: none;
 }
@@ -11,7 +11,7 @@ body {
 .container {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+/*  justify-content: center;*/
   width: 400px;
   margin: 0 auto;
 }
